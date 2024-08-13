@@ -1,0 +1,159 @@
+header{
+    display: flex;
+  justify-content: space-around;
+}
+img{
+    width: 50px;
+    height: 40px;
+}
+nav{
+    width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 10px;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+.right img{
+    width: 350px;
+    height: 300px;
+}
+.left{
+    width: 300px;
+    height: 300px;
+}
+button{
+    width: 193px;
+    height: 49px;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.bed{
+    width: 800px;
+    height: 700px;
+    display: flex;
+   flex-wrap: wrap;
+   margin: 0 auto;
+}
+
+.bir{
+    width: 250px;
+    height: 250px;
+}
+.ikki{
+    width: 250px;
+    height: 250px;
+}
+.uch{
+    width: 250px;
+    height: 250px;
+}
+.tort{
+    width: 200px;
+    height: 200px;
+}
+.besh{
+    width: 200px;
+    height: 200px;
+}
+.olti{
+    width: 200px;
+    height: 200px;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+.qq{
+    width: 193px;
+    height: 49px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    border-radius: 30px;
+  color: rgb(109, 109, 245);
+  margin:  0 auto;
+  color: white;
+}
+.xs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.ll{
+    width: 400px;
+  height: 20px;
+}
+.jj img{
+    width: 300px;
+    height: 400px;
+}
+.a{
+    text-align: center;
+    font-size: larger;
+}
+.n{
+    width: 1200px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.b{
+    width: 400px;
+    height: 400px;
+ 
+}
+.c{
+    width: 400px;
+    height: 400px;
+}
+.d{
+    width: 400px;
+    height: 400px;
+}
+.v{
+    width:400px;
+    height: 250px;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    color: rgb(95, 95, 239);
+}
+footer{
+    background-color: rgb(102, 102, 242);
+    height: 432px;
+    width: 1600px;
+}
+.p{
+    width: 386px;
+    height: 142px;
+    color: white;
+}
+ul li{
+    color: white;
+    list-style: none;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.z{
+    width: 200px;
+    height: 50px;
+}
+
